@@ -1,9 +1,9 @@
 # promtex 4 cases digital day
 
-## Logger
+Logger
 
-## Vehicles
+Vehicles
 
-## Calculator
+Calculator
 
-## Find second max number
+Find second max number
